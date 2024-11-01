@@ -1,0 +1,1 @@
+export const COLLISION_OFFSET = 10;
